@@ -1,2 +1,0 @@
-[console_scripts]
-pocket_helper = src.main:main
